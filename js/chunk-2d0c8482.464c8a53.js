@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c8482"],{"53e3":function(e,n,c){"use strict";c.r(n);var t=c("7a23"),r={id:"anime-container"};function i(e,n,c,i,a,o){var d=Object(t["M"])("router-view");return Object(t["F"])(),Object(t["m"])("div",r,[Object(t["p"])(d)])}var a={name:"Anime"},o=c("6b0d"),d=c.n(o);const u=d()(a,[["render",i]]);n["default"]=u}}]);
+//# sourceMappingURL=chunk-2d0c8482.464c8a53.js.map
